@@ -7,27 +7,27 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['918101187835']
-global.OwnerNumber = ['918101187835']
-global.ownertag = ['918101187835']
-global.BotName = "Miku"
-global.packname = "Miku bot"
-global.author = "By: Fantox"
-global.OwnerName = "Fantox"
-global.BotSourceCode = "https://github.com/FantoX001/Miku-MD"
-global.SupportGroupLink = "https://chat.whatsapp.com/JcBzjRIxM5UHfuJbt0KrWt"
+global.Owner = ['19898080719']
+global.OwnerNumber = ['19898080719']
+global.ownertag = ['19898080719']
+global.BotName = "Ꮩïɢɢ⊕ᵒᶠᶜ 🍷"
+global.packname = "©Ⓥⓘⓖⓖⓞ\n𝑇𝑜𝑑𝑜 𝑙𝑜 𝑞𝑢𝑒 𝑎𝑙𝑔𝑢𝑛𝑎 𝑣𝑒𝑧 𝑑𝑒𝑠𝑒𝑎𝑠𝑡𝑒 𝑒𝑠𝑡𝑎́ 𝑑𝑒𝑙 𝑜𝑡𝑟𝑜 𝑙𝑎𝑑𝑜 𝑑𝑒𝑙 𝑚𝑖𝑒𝑑𝑜:𝐴𝑏𝑖,𝑆𝑜𝑓𝑖́,𝐷𝑎𝑛,𝑅𝑜𝑥,𝑆𝑎𝑙𝑜,𝐼𝑠𝑠𝑎,𝐵𝑎𝑟,𝑆𝑜𝑓𝑖́ 𝐽𝑟,𝐺𝑒𝑟,𝑆𝑟🎩,𝐿𝑒𝑥,𝐾𝑖𝑟𝑖_Ꮩ𝑖̈ɢɢ⊕ᵒᶠᶜ🍷"
+global.author = "©Ⓥⓘⓖⓖⓞᵒᶠᶜ"
+global.OwnerName = "Viggo Tarasov"
+global.BotSourceCode = "https://chat.whatsapp.com/CCaUn821f9kAeykkaJU94j"
+global.SupportGroupLink = "https://chat.whatsapp.com/CCaUn821f9kAeykkaJU94j"
 global.sessionName = "session"
 
 
 
-global.prefa = ['-'] // Prefix ---  change it to anythong you want except @//
+global.prefa = ['+'] // Prefix ---  change it to anythong you want except @//
 
 
 global.location = "West Bengal, India"
-global.reactmoji = "❤️"
+global.reactmoji = "😎"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
-global.websitex = "https://github.com/FantoX001"
+global.websitex = "https://chat.whatsapp.com/CCaUn821f9kAeykkaJU94j"
 global.lolhuman = "KaysaS"
 
 
