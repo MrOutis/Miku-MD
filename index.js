@@ -166,7 +166,6 @@ Miku.sendMessage(anu.id, buttonMessage)
                 	let WAuserName = num
                     mikutext = `
 Adios Desconocido 👋, @${WAuserName.split("@")[0]},
-
  no te vamos a extrañar.!
 `
 
