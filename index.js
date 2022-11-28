@@ -140,7 +140,7 @@ return list[Math.floor(list.length * Math.random())]
                 try {
                     ppgroup = await Miku.profilePictureUrl(anu.id, 'image')
                 } catch {
-                    ppgroup = 'https://sm.ign.com/t/ign_in/review/p/prison-bre/prison-break-kaniel-outis-review_kxsk.1200.jpg'
+                    ppgroup = 'https://telegra.ph/file/4cc2712eee93c105f6739.jpg'
                 }
 
                 let targetname = await Miku.getName(num)
@@ -150,9 +150,10 @@ return list[Math.floor(list.length * Math.random())]
                 if (anu.action == 'add') {
                 let WAuserName = num
                 mikutext = `
-Hola @${WAuserName.split("@")[0]},
+𝗛𝗼𝗹𝗮 👋🏻 @${WAuserName.split("@")[0]},
 
-Soy *B⊕T R⊕KETᵒᶠᶜ*, Bienvenido a ${metadata.subject}. `
+Soy *B⊕T R⊕KETᵒᶠᶜ*, Bienvenido a ${metadata.subject}.
+✑ Disfruta tu estadia aquí, no te olvides de leer las reglas del grupo!!!`
 
     let buttonMessage = {
     image: await getBuffer(ppgroup),
