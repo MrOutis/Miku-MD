@@ -123,7 +123,7 @@ return list[Math.floor(list.length * Math.random())]
 
 
 
-/* Miku.ev.on('group-participants.update', async (anu) => {
+ Miku.ev.on('group-participants.update', async (anu) => {
         console.log(anu)
        
         try {
@@ -152,7 +152,7 @@ return list[Math.floor(list.length * Math.random())]
                 mikutext = `
 Hola @${WAuserName.split("@")[0]},
 
-Soy *B⊕TᏙïɢɢ⊕ᵒᶠᶜ 🍷*, Bienvenido a ${metadata.subject}. `
+Soy *B⊕T R⊕KETᵒᶠᶜ*, Bienvenido a ${metadata.subject}. `
 
     let buttonMessage = {
     image: await getBuffer(ppgroup),
@@ -168,7 +168,7 @@ Miku.sendMessage(anu.id, buttonMessage)
 Adios Desconocido 👋, @${WAuserName.split("@")[0]},
 
  no te vamos a extrañar.!
-`*/
+`
 
     let buttonMessage = {
 	image:await getBuffer(ppuser),
