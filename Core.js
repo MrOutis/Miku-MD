@@ -4737,25 +4737,48 @@ case 'help': case 'h': case 'menu': case 'allmenu': case 'listmenu':{
       
  const helpmenu = `Konichiwa *${pushname}* Senpai,
 
-I am *Miku Nakano*, a bot developed by *Fantox*.
+soy *B⊕T R⊕KETᵒᶠᶜ*, un bot desarrollado por *Fantox*.
 
 🔰 My prefix is:  ${prefix}
 
-Here's the list of my Commands.
+
+Aquí está la lista de mis Comandos👇🏻.
 
 
  
  *━━━〈  🎆 Core 🎆  〉━━━*
 
-speak, miku, stalk, profile, help, delete, deleteall, listgc, listpc, welcome, support, repo, script, admin 
+✑speak
+✑miku
+✑stalk
+✑profile
+✑help
+✑delete
+✑deleteall
+✑listgc
+✑listpc
+✑welcome
+✑support
+✑repo
+✑script
+✑admin 
  
  *━━━〈  🔱 Owner 🔱  〉━━━*
 
-self, public, ban, bangroup, bye, join, bye, block, unblock, broadcast 
+✑self
+✑public
+✑ban
+✑bangroup
+✑bye
+✑join
+✑bye
+✑block
+✑unblock
+✑broadcast 
 
  *━━━〈  ⭕ Group ⭕  〉━━━*
  
-promote, demote, revoke, add, remove, tagall, hidetag, groupsetting, grouplink, setgcpp, setname, setdesc, group, nsfw 
+✑promote✑demote✑revoke✑add✑remove✑tagall✑hidetag✑ groupsetting, grouplink, setgcpp, setname, setdesc, group, nsfw 
 
  *━━━〈  ➰ Anti Link ➰  〉━━━*
  
