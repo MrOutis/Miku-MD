@@ -4749,7 +4749,7 @@ Here's the list of my Commands.
 
 speak, miku, stalk, profile, help, delete, deleteall, listgc, listpc, welcome, support, repo, script, admin 
  
- *━━━〈  🎀 Owner 🎀  〉━━━*
+ *━━━〈  🔱 Owner 🔱  〉━━━*
 
 self, public, ban, bangroup, bye, join, bye, block, unblock, broadcast 
 
