@@ -123,7 +123,7 @@ return list[Math.floor(list.length * Math.random())]
 
 
 
-Miku.ev.on('group-participants.update', async (anu) => {
+/* Miku.ev.on('group-participants.update', async (anu) => {
         console.log(anu)
        
         try {
@@ -140,7 +140,7 @@ Miku.ev.on('group-participants.update', async (anu) => {
                 try {
                     ppgroup = await Miku.profilePictureUrl(anu.id, 'image')
                 } catch {
-                    ppgroup = 'https://telegra.ph/file/4cc2712eee93c105f6739.jpg'
+                    ppgroup = 'https://sm.ign.com/t/ign_in/review/p/prison-bre/prison-break-kaniel-outis-review_kxsk.1200.jpg'
                 }
 
                 let targetname = await Miku.getName(num)
@@ -150,13 +150,9 @@ Miku.ev.on('group-participants.update', async (anu) => {
                 if (anu.action == 'add') {
                 let WAuserName = num
                 mikutext = `
-Hello @${WAuserName.split("@")[0]},
+Hola @${WAuserName.split("@")[0]},
 
-I am *Miku Nakano*, Welcome to ${metadata.subject}.
-
-*Group Description:*
-${metadata.desc}
-`
+Soy *B⊕TᏙïɢɢ⊕ᵒᶠᶜ 🍷*, Bienvenido a ${metadata.subject}. `
 
     let buttonMessage = {
     image: await getBuffer(ppgroup),
@@ -169,10 +165,10 @@ Miku.sendMessage(anu.id, buttonMessage)
                 } else if (anu.action == 'remove') {
                 	let WAuserName = num
                     mikutext = `
-Sayonara 👋, @${WAuserName.split("@")[0]},
+Adios Desconocido 👋, @${WAuserName.split("@")[0]},
 
-I hope you will come back soon, but we are not going to miss you though!
-`
+ no te vamos a extrañar.!
+`*/
 
     let buttonMessage = {
 	image:await getBuffer(ppuser),
